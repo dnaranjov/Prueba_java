@@ -13,6 +13,7 @@ public class Taller_20190619 {
     int val1 =0;
     int val2 =0;
     int val3 =0;
+    int val4 =0;
 
     /**
      * @param args the command line arguments
